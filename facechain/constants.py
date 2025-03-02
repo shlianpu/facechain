@@ -11,7 +11,7 @@ base_models = [
     'revision': 'v2.0',
     'sub_path': "film/film"},
     {'name': 'MajicmixRealistic_v6',
-    'model_id': 'YorickHe/majicmixRealistic_v6',
+    'model_id': 'MAILAND/majicmixRealistic_v6',
     'revision': 'v1.0.0',
     'sub_path': "realistic"},
 ]
